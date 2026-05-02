@@ -48,7 +48,6 @@ print(f"Entropy is : {hs}")
 print(f"Efficiency is : {eff}")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
-
 ```
 # Calculation:
 
